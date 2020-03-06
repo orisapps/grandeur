@@ -1,0 +1,13 @@
+.cardcolor{
+	background-color: #de6765;
+}
+
+
+input[type="checkbox"] {
+	margin-left: -1.45rem;
+	
+}
+
+.navbar-laravel{
+	color: #fff;
+}

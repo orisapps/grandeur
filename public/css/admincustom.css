@@ -1,0 +1,76 @@
+.admincenter{
+  padding: 20px;
+  border:1px solid #306e15;
+  width: 80%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.alert h3{
+  font-weight: bold;
+  font-family: Tahoma;
+  font-size:1.4em;
+  text-transform: uppercase;
+  word-spacing: normal;
+
+}
+
+.btn-bold{
+  font-weight: bold;
+}
+
+.alert{
+
+  border-radius: 15px;
+  border:1px solid #3c1e1a;
+
+}
+
+.adminpro{
+  width: 97%;
+background: #d7ecdf;
+margin: auto;
+
+}
+
+.wrappuserform{
+  max-width: 60%;
+  margin: auto;
+}
+
+.adminedit{
+  width: 60%;
+  margin: auto;
+  background: #a2a7a4;
+
+}
+
+.label-gen01{
+
+  background-color:  #362d15 !important;
+}
+.label-gen02{
+
+  background-color: #594922 !important;
+}
+.label-gen03{
+
+  background-color: #7e662b !important;
+}
+.label-gen04{
+
+  background-color: #c39628 !important;
+}
+.label-gen05{
+
+  background-color: #f9c23e  !important;
+}
+.imageedit{
+  padding:25px;
+}
+
+.imageedit img{
+height:2 20px;
+width=:380px;
+
+}
